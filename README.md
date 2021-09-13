@@ -8,8 +8,8 @@
 
 This repository consists of my solutions to HackerRank **practice**, **tutorials**, and **interview preparation** problems with **C#**, **SQL**, **C++**, **Java**, , and **JavaScript**.
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/nathan-abela/HackerRank-Solutions)](https://github.com/nazrul-kabir/HackerRankSolutions/commits/master)
-[![GitHub repo size](https://img.shields.io/github/repo-size/nathan-abela/HackerRank-Solutions)](https://github.com/nazrul-kabir/HackerRankSolutions/archive/master.zip)
+[![GitHub last commit](https://img.shields.io/github/last-commit/nazrul-kabir/HackerRankSolutions)](https://github.com/nazrul-kabir/HackerRankSolutions/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/nazrul-kabir/HackerRankSolutions)](https://github.com/nazrul-kabir/HackerRankSolutions/archive/master.zip)
 
 ## Personal HackerRank Profile
 
