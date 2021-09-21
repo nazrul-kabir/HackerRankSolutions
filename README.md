@@ -20,7 +20,9 @@ This repository consists of my solutions to HackerRank **practice**, **tutorials
 <a href="Skills%20Certification/C%23%20(Basic)%20Certificate-Nazrul-Kabir.png">
     <img src="Badges/c%23_basic_skill.png" alt="C# (Basic) Certificate"/>
 </a>
-
+<a href="Skills%20Certification/SQL%20(Basic)%20Certificate-Nazrul-Kabir.png">
+    <img src="Badges/sql_basic_skill.png" alt="SQL (Basic) Certificate"/>
+</a>
 ## Table Of Contents
 
 * [Practices Completed](#practices-completed)
